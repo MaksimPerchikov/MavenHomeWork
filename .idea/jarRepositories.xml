@@ -16,5 +16,10 @@
       <option name="name" value="JBoss Community repository" />
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
     </remote-repository>
+    <remote-repository>
+      <option name="id" value="MavenHomeWork" />
+      <option name="name" value="MavenHomeWork" />
+      <option name="url" value="https://github.com/MaksimPerchikov/MavenHomeWork.git" />
+    </remote-repository>
   </component>
 </project>
